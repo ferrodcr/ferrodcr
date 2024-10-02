@@ -1,0 +1,10 @@
+- 👋 Hi there, I’m Fernanda
+- 👀 I’m interested in Data and Business Analytics to turn data into actionable insights.
+- 🌱 I'm currently focused on data analytics with a special interest in supply chain operations and business insights. I have a background in SQL, reporting, and Power BI, and I enjoy leveraging data to drive decisions and improve processes.
+- 💞️ I’m looking to collaborate on projects related to:
+-   Supply Chain Operations: To improve efficiency and optimize performance
+-   SQL Reporting: Collaborating on creating, refining, or automating reports using SQL
+-   Data Visualization: Developing clear, impactful visualizations that tell a story from the data.
+- 📫 How to reach me: https://www.linkedin.com/in/fernandarodriguezc/
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love excel!!!
